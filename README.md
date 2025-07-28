@@ -1,1 +1,2 @@
-"# snake" 
+console based snake game
+
